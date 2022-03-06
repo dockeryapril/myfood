@@ -7,3 +7,10 @@ h1 {
     text-align: center;
     color:coral;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
